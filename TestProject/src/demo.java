@@ -9,5 +9,6 @@ public class demo
 		System.out.println(sum);
 		
 		System.out.println("hiii");
+		System.out.println("hiii");
 	}
 }
