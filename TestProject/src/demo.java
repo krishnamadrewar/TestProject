@@ -8,6 +8,6 @@ public class demo
 		int sum=a+b;
 		System.out.println(sum);
 		
-		System.out.println("welcome to github");
+		System.out.println("welcome to github store");
 	}
 }
